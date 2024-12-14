@@ -1,4 +1,4 @@
-Title:Miss
+.Title:Miss
 Full Name: FARHEEN FIRDOUs
 USN: 1WT23CS020
 Semister: 3rd
